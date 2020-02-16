@@ -63,7 +63,7 @@ class _SplashScreenState extends State<SplashScreen>
                 ),
               ),
               SizedBox(
-                height: 100.0,
+                height: 75.0,
               ),
               Icon(
                 Icons.camera_alt,
